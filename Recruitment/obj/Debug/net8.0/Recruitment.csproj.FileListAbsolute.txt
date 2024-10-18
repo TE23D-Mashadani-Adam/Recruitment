@@ -1,0 +1,14 @@
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\bin\Debug\net8.0\Recruitment.exe
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\bin\Debug\net8.0\Recruitment.deps.json
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\bin\Debug\net8.0\Recruitment.runtimeconfig.json
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\bin\Debug\net8.0\Recruitment.dll
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\bin\Debug\net8.0\Recruitment.pdb
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.AssemblyInfoInputs.cache
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.AssemblyInfo.cs
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.csproj.CoreCompileInputs.cache
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.dll
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\refint\Recruitment.dll
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.pdb
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.genruntimeconfig.cache
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\ref\Recruitment.dll

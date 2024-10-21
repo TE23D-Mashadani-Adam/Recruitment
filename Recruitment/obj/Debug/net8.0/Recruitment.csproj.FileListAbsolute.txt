@@ -12,3 +12,4 @@ C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debu
 C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.pdb
 C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.genruntimeconfig.cache
 C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\ref\Recruitment.dll
+C:\Users\adam.mashadani\Documents\Programmering\Recruitment\Recruitment\obj\Debug\net8.0\Recruitment.sourcelink.json
